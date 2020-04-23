@@ -1,0 +1,6 @@
+/.idea
+/venv
+/images
+/config
+*.log
+*.json
